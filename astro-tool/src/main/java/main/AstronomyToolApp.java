@@ -29,7 +29,7 @@ public class AstronomyToolApp {
 	private static final String [] URLS = {
 			"C:\\Users\\peter\\eclipse-workspace\\astro-tool\\src\\main\\res\\ASCII-saturn.txt",
 			"C:\\Users\\peter\\eclipse-workspace\\astro-tool\\src\\main\\res\\eclipse-ascii.txt",
-			"C:\\Users\\peter\\eclipse-workspace\\astro-tool\\src\\main\\res\\title-screen-ascii.txt"
+			"C:\\Users\\peter\\eclipse-workspace\\astro-tool\\src\\main\\res\\title-screen-ascii2.txt"
 	};	
 	
 	private static boolean isRunning;	
@@ -239,11 +239,14 @@ public class AstronomyToolApp {
 		Scanner sc2 = null;
 		
 		try {
+			System.out.println(url);
 			sc2 = new Scanner(new File(url));
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
+			System.out.println("The file didn't get processed by the scanner as expected.");
 			e.printStackTrace();
 		}
+		
+		
 		
 		while (sc2.hasNext()) {
 			System.out.println(sc2.nextLine());

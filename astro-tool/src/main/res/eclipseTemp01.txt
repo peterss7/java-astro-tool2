@@ -3,23 +3,23 @@
   <head>
     <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-MJ91TBCWBK&amp;l=dataLayer&amp;cx=c">
     </script>
-    <script type="text/javascript" src="https://m.addthis.com/live/red_lojson/300lo.json?si=639dd7d4a0992395&amp;bkl=0&amp;bl=1&amp;sid=639dd7d4a0992395&amp;pub=ra-50b7ed666f4a3ad4&amp;rev=v8.28.8-wp&amp;ln=en&amp;pc=men&amp;cb=0&amp;ab=-&amp;dp=theskylive.com&amp;fp=solar-eclipses-by-decade%3Fdecade%3D2030&amp;fr=&amp;of=0&amp;pd=0&amp;irt=0&amp;vcl=0&amp;md=0&amp;ct=1&amp;tct=0&amp;abt=0&amp;cdn=0&amp;pi=1&amp;rb=0&amp;gen=100&amp;chr=UTF-8&amp;colc=1671288819439&amp;jsl=1&amp;uvs=639dd7d4fcfbd214000&amp;skipb=1&amp;callback=addthis.cbs.jsonp__173572490082197660">
+    <script type="text/javascript" src="https://m.addthis.com/live/red_lojson/300lo.json?si=639df881f64ec92d&amp;bkl=0&amp;bl=1&amp;sid=639df881f64ec92d&amp;pub=ra-50b7ed666f4a3ad4&amp;rev=v8.28.8-wp&amp;ln=en&amp;pc=men&amp;cb=0&amp;ab=-&amp;dp=theskylive.com&amp;fp=solar-eclipses-by-decade%3Fdecade%3D2020&amp;fr=&amp;of=0&amp;pd=0&amp;irt=0&amp;vcl=0&amp;md=0&amp;ct=1&amp;tct=0&amp;abt=0&amp;cdn=0&amp;pi=1&amp;rb=0&amp;gen=100&amp;chr=UTF-8&amp;colc=1671297154183&amp;jsl=1&amp;uvs=639df881564d12ff000&amp;skipb=1&amp;callback=addthis.cbs.jsonp__130006657830637140">
     </script>
     <script type="text/javascript" src="https://v1.addthisedge.com/live/boost/ra-50b7ed666f4a3ad4/_ate.track.config_resp">
     </script>
     <script type="text/javascript" src="https://z.moatads.com/addthismoatframe568911941483/moatframe.js">
     </script>
     <title>
-      List of Solar Eclipses happening between the year 2030 and the year 2039 | TheSkyLive.com
+      List of Solar Eclipses happening between the year 2020 and the year 2029 | TheSkyLive.com
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <meta name="description" content="List of the total, annular and partial Solar Eclipses happening between the year 2030 and the year 2039."/>
-    <meta property="og:title" content="List of Solar Eclipses happening between the year 2030 and the year 2039"/>
-    <meta property="og:description" content="List of the total, annular and partial Solar Eclipses happening between the year 2030 and the year 2039."/>
+    <meta name="description" content="List of the total, annular and partial Solar Eclipses happening between the year 2020 and the year 2029."/>
+    <meta property="og:title" content="List of Solar Eclipses happening between the year 2020 and the year 2029"/>
+    <meta property="og:description" content="List of the total, annular and partial Solar Eclipses happening between the year 2020 and the year 2029."/>
     <meta property="og:image" content="https://storage.googleapis.com/thesylive-article-media/theskylive-solar-eclipses.jpg"/>
-    <meta property="twitter:title" content="List of Solar Eclipses happening between the year 2030 and the year 2039"/>
-    <meta property="twitter:description" content="List of the total, annular and partial Solar Eclipses happening between the year 2030 and the year 2039."/>
+    <meta property="twitter:title" content="List of Solar Eclipses happening between the year 2020 and the year 2029"/>
+    <meta property="twitter:description" content="List of the total, annular and partial Solar Eclipses happening between the year 2020 and the year 2029."/>
     <meta property="twitter:image" content="https://storage.googleapis.com/thesylive-article-media/theskylive-solar-eclipses.jpg"/>
     <meta name="twitter:card" content="summary_large_image"/>
     <link rel="shortcut icon" href="favicon.png"/>
@@ -373,7 +373,7 @@ This site cannot run without your voluntary donations.
               🌎 
             </locationlabel>
              Greenwich, United Kingdom [
-            <a href="/locationpicker?back_url=https%3A%2F%2Ftheskylive.com%2Fsolar-eclipses-by-decade%3Fdecade%3D2030">
+            <a href="/locationpicker?back_url=https%3A%2F%2Ftheskylive.com%2Fsolar-eclipses-by-decade%3Fdecade%3D2020">
               change
             </a>
             ]
@@ -404,7 +404,7 @@ var autocomplete_options_url = {
 			dataLayer.push({'Object.Autocomplete.Selection': item.id});
 			dataLayer.push({'event': 'Object.Autocomplete.Selection'});
 			setTimeout(function(){
-				if(item.id == 'geosearch'){document.location.href = "/locationpicker?back_url=https%3A%2F%2Ftheskylive.com%2Fsolar-eclipses-by-decade%3Fdecade%3D2030"}
+				if(item.id == 'geosearch'){document.location.href = "/locationpicker?back_url=https%3A%2F%2Ftheskylive.com%2Fsolar-eclipses-by-decade%3Fdecade%3D2020"}
 				else {document.location.href = item.url}
 			}, 250);
 		},
@@ -584,11 +584,11 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </ul>
           </div>
           <h1 style="margin-top:10px;">
-            List of Solar Eclipses happening between the year 2030 and the year 2039
+            List of Solar Eclipses happening between the year 2020 and the year 2029
           </h1>
           <p>
             
-				This is the list of all the solar eclipses between the years 2030 and the year 2039.
+				This is the list of all the solar eclipses between the years 2020 and the year 2029.
 				Total Solar Eclipses, Annular Solar Eclipses and Partial Solar Eclipses are included.
 				
           </p>
@@ -605,8 +605,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2030-06-01">
-                        June  1 2030
+                      <a href="/solar-eclipse?id=2020-06-21">
+                        June 21 2020
                         <br/>
                         Annular Solar Eclipse
                       </a>
@@ -617,8 +617,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2030-06-01">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2030-06-01.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2020-06-21">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2020-06-21.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -627,14 +627,14 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  0.944
+                  0.994
                 </span>
                 ; Max Duration: 
                 <span class="value">
-                  5min 21sec
+                  38sec
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2030-06-01">
+                <a href="/solar-eclipse?id=2020-06-21">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -646,8 +646,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2030-11-25">
-                        November 25 2030
+                      <a href="/solar-eclipse?id=2020-12-14">
+                        December 14 2020
                         <br/>
                         Total Solar Eclipse
                       </a>
@@ -658,8 +658,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2030-11-25">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2030-11-25.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2020-12-14">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2020-12-14.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -668,14 +668,14 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  1.047
+                  1.025
                 </span>
                 ; Max Duration: 
                 <span class="value">
-                  3min 44sec
+                  2min 10sec
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2030-11-25">
+                <a href="/solar-eclipse?id=2020-12-14">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -687,8 +687,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2031-05-21">
-                        May 21 2031
+                      <a href="/solar-eclipse?id=2021-06-10">
+                        June 10 2021
                         <br/>
                         Annular Solar Eclipse
                       </a>
@@ -699,8 +699,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2031-05-21">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2031-05-21.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2021-06-10">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2021-06-10.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -709,14 +709,14 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  0.959
+                  0.943
                 </span>
                 ; Max Duration: 
                 <span class="value">
-                  5min 26sec
+                  3min 51sec
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2031-05-21">
+                <a href="/solar-eclipse?id=2021-06-10">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -728,127 +728,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2031-11-14">
-                        November 14 2031
-                        <br/>
-                        Hybrid Solar Eclipse
-                      </a>
-                    </h2>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div style="text-align:left;position:relative;height:310px;">
-              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2031-11-14">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2031-11-14.jpg" style="height:300px;width:300px;"/>
-                </a>
-              </div>
-            </div>
-            <div style="text-align:center;vertical-align:center;line-height:20px;">
-              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
-                
-						Magnitude: 
-                <span class="value">
-                  1.011
-                </span>
-                ; Max Duration: 
-                <span class="value">
-                  1min 8sec
-                </span>
-                <br/>
-                <a href="/solar-eclipse?id=2031-11-14">
-                  Full Eclipse Details and Local Circumstances
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="object_container notvisible" style="cursor:default;">
-            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
-              <tbody>
-                <tr>
-                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
-                    <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2032-05-09">
-                        May  9 2032
-                        <br/>
-                        Annular Solar Eclipse
-                      </a>
-                    </h2>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div style="text-align:left;position:relative;height:310px;">
-              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2032-05-09">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2032-05-09.jpg" style="height:300px;width:300px;"/>
-                </a>
-              </div>
-            </div>
-            <div style="text-align:center;vertical-align:center;line-height:20px;">
-              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
-                
-						Magnitude: 
-                <span class="value">
-                  0.996
-                </span>
-                ; Max Duration: 
-                <span class="value">
-                  22sec
-                </span>
-                <br/>
-                <a href="/solar-eclipse?id=2032-05-09">
-                  Full Eclipse Details and Local Circumstances
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="object_container notvisible" style="cursor:default;">
-            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
-              <tbody>
-                <tr>
-                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
-                    <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2032-11-03">
-                        November  3 2032
-                        <br/>
-                        Partial Solar Eclipse
-                      </a>
-                    </h2>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div style="text-align:left;position:relative;height:310px;">
-              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2032-11-03">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2032-11-03.jpg" style="height:300px;width:300px;"/>
-                </a>
-              </div>
-            </div>
-            <div style="text-align:center;vertical-align:center;line-height:20px;">
-              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
-                
-						Magnitude: 
-                <span class="value">
-                  0.855
-                </span>
-                <br/>
-                <a href="/solar-eclipse?id=2032-11-03">
-                  Full Eclipse Details and Local Circumstances
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="object_container notvisible" style="cursor:default;">
-            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
-              <tbody>
-                <tr>
-                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
-                    <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2033-03-30">
-                        March 30 2033
+                      <a href="/solar-eclipse?id=2021-12-04">
+                        December  4 2021
                         <br/>
                         Total Solar Eclipse
                       </a>
@@ -859,8 +740,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2033-03-30">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2033-03-30.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2021-12-04">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2021-12-04.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -869,14 +750,14 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  1.046
+                  1.037
                 </span>
                 ; Max Duration: 
                 <span class="value">
-                  2min 37sec
+                  1min 54sec
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2033-03-30">
+                <a href="/solar-eclipse?id=2021-12-04">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -888,8 +769,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2033-09-23">
-                        September 23 2033
+                      <a href="/solar-eclipse?id=2022-04-30">
+                        April 30 2022
                         <br/>
                         Partial Solar Eclipse
                       </a>
@@ -900,8 +781,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2033-09-23">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2033-09-23.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2022-04-30">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2022-04-30.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -910,10 +791,10 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  0.689
+                  0.64
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2033-09-23">
+                <a href="/solar-eclipse?id=2022-04-30">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -925,172 +806,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2034-03-20">
-                        March 20 2034
-                        <br/>
-                        Total Solar Eclipse
-                      </a>
-                    </h2>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div style="text-align:left;position:relative;height:310px;">
-              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2034-03-20">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2034-03-20.jpg" style="height:300px;width:300px;"/>
-                </a>
-              </div>
-            </div>
-            <div style="text-align:center;vertical-align:center;line-height:20px;">
-              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
-                
-						Magnitude: 
-                <span class="value">
-                  1.046
-                </span>
-                ; Max Duration: 
-                <span class="value">
-                  4min 9sec
-                </span>
-                <br/>
-                <a href="/solar-eclipse?id=2034-03-20">
-                  Full Eclipse Details and Local Circumstances
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="object_container notvisible" style="cursor:default;">
-            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
-              <tbody>
-                <tr>
-                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
-                    <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2034-09-12">
-                        September 12 2034
-                        <br/>
-                        Annular Solar Eclipse
-                      </a>
-                    </h2>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div style="text-align:left;position:relative;height:310px;">
-              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2034-09-12">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2034-09-12.jpg" style="height:300px;width:300px;"/>
-                </a>
-              </div>
-            </div>
-            <div style="text-align:center;vertical-align:center;line-height:20px;">
-              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
-                
-						Magnitude: 
-                <span class="value">
-                  0.974
-                </span>
-                ; Max Duration: 
-                <span class="value">
-                  2min 58sec
-                </span>
-                <br/>
-                <a href="/solar-eclipse?id=2034-09-12">
-                  Full Eclipse Details and Local Circumstances
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="object_container notvisible" style="cursor:default;">
-            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
-              <tbody>
-                <tr>
-                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
-                    <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2035-03-09">
-                        March  9 2035
-                        <br/>
-                        Annular Solar Eclipse
-                      </a>
-                    </h2>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div style="text-align:left;position:relative;height:310px;">
-              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2035-03-09">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2035-03-09.jpg" style="height:300px;width:300px;"/>
-                </a>
-              </div>
-            </div>
-            <div style="text-align:center;vertical-align:center;line-height:20px;">
-              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
-                
-						Magnitude: 
-                <span class="value">
-                  0.992
-                </span>
-                ; Max Duration: 
-                <span class="value">
-                  48sec
-                </span>
-                <br/>
-                <a href="/solar-eclipse?id=2035-03-09">
-                  Full Eclipse Details and Local Circumstances
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="object_container notvisible" style="cursor:default;">
-            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
-              <tbody>
-                <tr>
-                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
-                    <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2035-09-02">
-                        September  2 2035
-                        <br/>
-                        Total Solar Eclipse
-                      </a>
-                    </h2>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div style="text-align:left;position:relative;height:310px;">
-              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2035-09-02">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2035-09-02.jpg" style="height:300px;width:300px;"/>
-                </a>
-              </div>
-            </div>
-            <div style="text-align:center;vertical-align:center;line-height:20px;">
-              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
-                
-						Magnitude: 
-                <span class="value">
-                  1.032
-                </span>
-                ; Max Duration: 
-                <span class="value">
-                  2min 54sec
-                </span>
-                <br/>
-                <a href="/solar-eclipse?id=2035-09-02">
-                  Full Eclipse Details and Local Circumstances
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="object_container notvisible" style="cursor:default;">
-            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
-              <tbody>
-                <tr>
-                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
-                    <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2036-02-27">
-                        February 27 2036
+                      <a href="/solar-eclipse?id=2022-10-25">
+                        October 25 2022
                         <br/>
                         Partial Solar Eclipse
                       </a>
@@ -1101,82 +818,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2036-02-27">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2036-02-27.jpg" style="height:300px;width:300px;"/>
-                </a>
-              </div>
-            </div>
-            <div style="text-align:center;vertical-align:center;line-height:20px;">
-              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
-                
-						Magnitude: 
-                <span class="value">
-                  0.629
-                </span>
-                <br/>
-                <a href="/solar-eclipse?id=2036-02-27">
-                  Full Eclipse Details and Local Circumstances
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="object_container notvisible" style="cursor:default;">
-            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
-              <tbody>
-                <tr>
-                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
-                    <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2036-07-23">
-                        July 23 2036
-                        <br/>
-                        Partial Solar Eclipse
-                      </a>
-                    </h2>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div style="text-align:left;position:relative;height:310px;">
-              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2036-07-23">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2036-07-23.jpg" style="height:300px;width:300px;"/>
-                </a>
-              </div>
-            </div>
-            <div style="text-align:center;vertical-align:center;line-height:20px;">
-              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
-                
-						Magnitude: 
-                <span class="value">
-                  0.199
-                </span>
-                <br/>
-                <a href="/solar-eclipse?id=2036-07-23">
-                  Full Eclipse Details and Local Circumstances
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="object_container notvisible" style="cursor:default;">
-            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
-              <tbody>
-                <tr>
-                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
-                    <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2036-08-21">
-                        August 21 2036
-                        <br/>
-                        Partial Solar Eclipse
-                      </a>
-                    </h2>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div style="text-align:left;position:relative;height:310px;">
-              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2036-08-21">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2036-08-21.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2022-10-25">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2022-10-25.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -1188,7 +831,7 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                   0.862
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2036-08-21">
+                <a href="/solar-eclipse?id=2022-10-25">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -1200,8 +843,172 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2037-01-16">
-                        January 16 2037
+                      <a href="/solar-eclipse?id=2023-04-20">
+                        April 20 2023
+                        <br/>
+                        Hybrid Solar Eclipse
+                      </a>
+                    </h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align:left;position:relative;height:310px;">
+              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
+                <a href="/solar-eclipse?id=2023-04-20">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2023-04-20.jpg" style="height:300px;width:300px;"/>
+                </a>
+              </div>
+            </div>
+            <div style="text-align:center;vertical-align:center;line-height:20px;">
+              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
+                
+						Magnitude: 
+                <span class="value">
+                  1.013
+                </span>
+                ; Max Duration: 
+                <span class="value">
+                  1min 16sec
+                </span>
+                <br/>
+                <a href="/solar-eclipse?id=2023-04-20">
+                  Full Eclipse Details and Local Circumstances
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="object_container notvisible" style="cursor:default;">
+            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
+              <tbody>
+                <tr>
+                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
+                    <h2 style="margin-bottom:0px;">
+                      <a href="/solar-eclipse?id=2023-10-14">
+                        October 14 2023
+                        <br/>
+                        Annular Solar Eclipse
+                      </a>
+                    </h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align:left;position:relative;height:310px;">
+              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
+                <a href="/solar-eclipse?id=2023-10-14">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2023-10-14.jpg" style="height:300px;width:300px;"/>
+                </a>
+              </div>
+            </div>
+            <div style="text-align:center;vertical-align:center;line-height:20px;">
+              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
+                
+						Magnitude: 
+                <span class="value">
+                  0.952
+                </span>
+                ; Max Duration: 
+                <span class="value">
+                  5min 17sec
+                </span>
+                <br/>
+                <a href="/solar-eclipse?id=2023-10-14">
+                  Full Eclipse Details and Local Circumstances
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="object_container notvisible" style="cursor:default;">
+            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
+              <tbody>
+                <tr>
+                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
+                    <h2 style="margin-bottom:0px;">
+                      <a href="/solar-eclipse?id=2024-04-08">
+                        April  8 2024
+                        <br/>
+                        Total Solar Eclipse
+                      </a>
+                    </h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align:left;position:relative;height:310px;">
+              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
+                <a href="/solar-eclipse?id=2024-04-08">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2024-04-08.jpg" style="height:300px;width:300px;"/>
+                </a>
+              </div>
+            </div>
+            <div style="text-align:center;vertical-align:center;line-height:20px;">
+              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
+                
+						Magnitude: 
+                <span class="value">
+                  1.057
+                </span>
+                ; Max Duration: 
+                <span class="value">
+                  4min 28sec
+                </span>
+                <br/>
+                <a href="/solar-eclipse?id=2024-04-08">
+                  Full Eclipse Details and Local Circumstances
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="object_container notvisible" style="cursor:default;">
+            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
+              <tbody>
+                <tr>
+                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
+                    <h2 style="margin-bottom:0px;">
+                      <a href="/solar-eclipse?id=2024-10-02">
+                        October  2 2024
+                        <br/>
+                        Annular Solar Eclipse
+                      </a>
+                    </h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align:left;position:relative;height:310px;">
+              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
+                <a href="/solar-eclipse?id=2024-10-02">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2024-10-02.jpg" style="height:300px;width:300px;"/>
+                </a>
+              </div>
+            </div>
+            <div style="text-align:center;vertical-align:center;line-height:20px;">
+              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
+                
+						Magnitude: 
+                <span class="value">
+                  0.933
+                </span>
+                ; Max Duration: 
+                <span class="value">
+                  7min 25sec
+                </span>
+                <br/>
+                <a href="/solar-eclipse?id=2024-10-02">
+                  Full Eclipse Details and Local Circumstances
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="object_container notvisible" style="cursor:default;">
+            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
+              <tbody>
+                <tr>
+                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
+                    <h2 style="margin-bottom:0px;">
+                      <a href="/solar-eclipse?id=2025-03-29">
+                        March 29 2025
                         <br/>
                         Partial Solar Eclipse
                       </a>
@@ -1212,8 +1019,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2037-01-16">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2037-01-16.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2025-03-29">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2025-03-29.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -1222,10 +1029,10 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  0.705
+                  0.938
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2037-01-16">
+                <a href="/solar-eclipse?id=2025-03-29">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -1237,10 +1044,10 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2037-07-13">
-                        July 13 2037
+                      <a href="/solar-eclipse?id=2025-09-21">
+                        September 21 2025
                         <br/>
-                        Total Solar Eclipse
+                        Partial Solar Eclipse
                       </a>
                     </h2>
                   </td>
@@ -1249,8 +1056,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2037-07-13">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2037-07-13.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2025-09-21">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2025-09-21.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -1259,14 +1066,10 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  1.041
-                </span>
-                ; Max Duration: 
-                <span class="value">
-                  3min 58sec
+                  0.855
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2037-07-13">
+                <a href="/solar-eclipse?id=2025-09-21">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -1278,8 +1081,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2038-01-05">
-                        January  5 2038
+                      <a href="/solar-eclipse?id=2026-02-17">
+                        February 17 2026
                         <br/>
                         Annular Solar Eclipse
                       </a>
@@ -1290,8 +1093,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2038-01-05">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2038-01-05.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2026-02-17">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2026-02-17.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -1300,14 +1103,14 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  0.973
+                  0.963
                 </span>
                 ; Max Duration: 
                 <span class="value">
-                  3min 18sec
+                  2min 20sec
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2038-01-05">
+                <a href="/solar-eclipse?id=2026-02-17">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -1319,49 +1122,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2038-07-02">
-                        July  2 2038
-                        <br/>
-                        Annular Solar Eclipse
-                      </a>
-                    </h2>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div style="text-align:left;position:relative;height:310px;">
-              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2038-07-02">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2038-07-02.jpg" style="height:300px;width:300px;"/>
-                </a>
-              </div>
-            </div>
-            <div style="text-align:center;vertical-align:center;line-height:20px;">
-              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
-                
-						Magnitude: 
-                <span class="value">
-                  0.991
-                </span>
-                ; Max Duration: 
-                <span class="value">
-                  1min 0sec
-                </span>
-                <br/>
-                <a href="/solar-eclipse?id=2038-07-02">
-                  Full Eclipse Details and Local Circumstances
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="object_container notvisible" style="cursor:default;">
-            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
-              <tbody>
-                <tr>
-                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
-                    <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2038-12-26">
-                        December 26 2038
+                      <a href="/solar-eclipse?id=2026-08-12">
+                        August 12 2026
                         <br/>
                         Total Solar Eclipse
                       </a>
@@ -1372,8 +1134,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2038-12-26">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2038-12-26.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2026-08-12">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2026-08-12.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -1382,14 +1144,14 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  1.027
+                  1.039
                 </span>
                 ; Max Duration: 
                 <span class="value">
                   2min 18sec
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2038-12-26">
+                <a href="/solar-eclipse?id=2026-08-12">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -1401,8 +1163,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2039-06-21">
-                        June 21 2039
+                      <a href="/solar-eclipse?id=2027-02-06">
+                        February  6 2027
                         <br/>
                         Annular Solar Eclipse
                       </a>
@@ -1413,8 +1175,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2039-06-21">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2039-06-21.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2027-02-06">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2027-02-06.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -1423,14 +1185,14 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  0.945
+                  0.928
                 </span>
                 ; Max Duration: 
                 <span class="value">
-                  4min 5sec
+                  7min 51sec
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2039-06-21">
+                <a href="/solar-eclipse?id=2027-02-06">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -1442,8 +1204,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 <tr>
                   <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
                     <h2 style="margin-bottom:0px;">
-                      <a href="/solar-eclipse?id=2039-12-15">
-                        December 15 2039
+                      <a href="/solar-eclipse?id=2027-08-02">
+                        August  2 2027
                         <br/>
                         Total Solar Eclipse
                       </a>
@@ -1454,8 +1216,8 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
             </table>
             <div style="text-align:left;position:relative;height:310px;">
               <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
-                <a href="/solar-eclipse?id=2039-12-15">
-                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2039-12-15.jpg" style="height:300px;width:300px;"/>
+                <a href="/solar-eclipse?id=2027-08-02">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2027-08-02.jpg" style="height:300px;width:300px;"/>
                 </a>
               </div>
             </div>
@@ -1464,14 +1226,244 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
                 
 						Magnitude: 
                 <span class="value">
-                  1.036
+                  1.079
                 </span>
                 ; Max Duration: 
                 <span class="value">
-                  1min 51sec
+                  6min 23sec
                 </span>
                 <br/>
-                <a href="/solar-eclipse?id=2039-12-15">
+                <a href="/solar-eclipse?id=2027-08-02">
+                  Full Eclipse Details and Local Circumstances
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="object_container notvisible" style="cursor:default;">
+            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
+              <tbody>
+                <tr>
+                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
+                    <h2 style="margin-bottom:0px;">
+                      <a href="/solar-eclipse?id=2028-01-26">
+                        January 26 2028
+                        <br/>
+                        Annular Solar Eclipse
+                      </a>
+                    </h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align:left;position:relative;height:310px;">
+              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
+                <a href="/solar-eclipse?id=2028-01-26">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2028-01-26.jpg" style="height:300px;width:300px;"/>
+                </a>
+              </div>
+            </div>
+            <div style="text-align:center;vertical-align:center;line-height:20px;">
+              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
+                
+						Magnitude: 
+                <span class="value">
+                  0.921
+                </span>
+                ; Max Duration: 
+                <span class="value">
+                  10min 27sec
+                </span>
+                <br/>
+                <a href="/solar-eclipse?id=2028-01-26">
+                  Full Eclipse Details and Local Circumstances
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="object_container notvisible" style="cursor:default;">
+            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
+              <tbody>
+                <tr>
+                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
+                    <h2 style="margin-bottom:0px;">
+                      <a href="/solar-eclipse?id=2028-07-22">
+                        July 22 2028
+                        <br/>
+                        Total Solar Eclipse
+                      </a>
+                    </h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align:left;position:relative;height:310px;">
+              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
+                <a href="/solar-eclipse?id=2028-07-22">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2028-07-22.jpg" style="height:300px;width:300px;"/>
+                </a>
+              </div>
+            </div>
+            <div style="text-align:center;vertical-align:center;line-height:20px;">
+              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
+                
+						Magnitude: 
+                <span class="value">
+                  1.056
+                </span>
+                ; Max Duration: 
+                <span class="value">
+                  5min 10sec
+                </span>
+                <br/>
+                <a href="/solar-eclipse?id=2028-07-22">
+                  Full Eclipse Details and Local Circumstances
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="object_container notvisible" style="cursor:default;">
+            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
+              <tbody>
+                <tr>
+                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
+                    <h2 style="margin-bottom:0px;">
+                      <a href="/solar-eclipse?id=2029-01-14">
+                        January 14 2029
+                        <br/>
+                        Partial Solar Eclipse
+                      </a>
+                    </h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align:left;position:relative;height:310px;">
+              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
+                <a href="/solar-eclipse?id=2029-01-14">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2029-01-14.jpg" style="height:300px;width:300px;"/>
+                </a>
+              </div>
+            </div>
+            <div style="text-align:center;vertical-align:center;line-height:20px;">
+              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
+                
+						Magnitude: 
+                <span class="value">
+                  0.871
+                </span>
+                <br/>
+                <a href="/solar-eclipse?id=2029-01-14">
+                  Full Eclipse Details and Local Circumstances
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="object_container notvisible" style="cursor:default;">
+            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
+              <tbody>
+                <tr>
+                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
+                    <h2 style="margin-bottom:0px;">
+                      <a href="/solar-eclipse?id=2029-06-12">
+                        June 12 2029
+                        <br/>
+                        Partial Solar Eclipse
+                      </a>
+                    </h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align:left;position:relative;height:310px;">
+              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
+                <a href="/solar-eclipse?id=2029-06-12">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2029-06-12.jpg" style="height:300px;width:300px;"/>
+                </a>
+              </div>
+            </div>
+            <div style="text-align:center;vertical-align:center;line-height:20px;">
+              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
+                
+						Magnitude: 
+                <span class="value">
+                  0.458
+                </span>
+                <br/>
+                <a href="/solar-eclipse?id=2029-06-12">
+                  Full Eclipse Details and Local Circumstances
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="object_container notvisible" style="cursor:default;">
+            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
+              <tbody>
+                <tr>
+                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
+                    <h2 style="margin-bottom:0px;">
+                      <a href="/solar-eclipse?id=2029-07-11">
+                        July 11 2029
+                        <br/>
+                        Partial Solar Eclipse
+                      </a>
+                    </h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align:left;position:relative;height:310px;">
+              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
+                <a href="/solar-eclipse?id=2029-07-11">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2029-07-11.jpg" style="height:300px;width:300px;"/>
+                </a>
+              </div>
+            </div>
+            <div style="text-align:center;vertical-align:center;line-height:20px;">
+              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
+                
+						Magnitude: 
+                <span class="value">
+                  0.23
+                </span>
+                <br/>
+                <a href="/solar-eclipse?id=2029-07-11">
+                  Full Eclipse Details and Local Circumstances
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="object_container notvisible" style="cursor:default;">
+            <!-- start object -->            <table cellspacing="0" cellpadding="0" style="width:100%">
+              <tbody>
+                <tr>
+                  <td style="height:52px;text-align:center;vertical-align:middle;" valign="top" align="center">
+                    <h2 style="margin-bottom:0px;">
+                      <a href="/solar-eclipse?id=2029-12-05">
+                        December  5 2029
+                        <br/>
+                        Partial Solar Eclipse
+                      </a>
+                    </h2>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div style="text-align:left;position:relative;height:310px;">
+              <div class="object_image" style="background-color:#111111;width:300px;height:200px;text-align:center;line-height:200px;font-weight:bold;">
+                <a href="/solar-eclipse?id=2029-12-05">
+                  <img class="map_thumbnail" border="0" src="/eclipse_data/images/300/2029-12-05.jpg" style="height:300px;width:300px;"/>
+                </a>
+              </div>
+            </div>
+            <div style="text-align:center;vertical-align:center;line-height:20px;">
+              <div style="border-top: 1px dotted #333333; padding-top: 8px;margin-top:5px;">
+                
+						Magnitude: 
+                <span class="value">
+                  0.891
+                </span>
+                <br/>
+                <a href="/solar-eclipse?id=2029-12-05">
                   Full Eclipse Details and Local Circumstances
                 </a>
               </div>
@@ -1532,7 +1524,7 @@ $("#autocomplete_search").easyAutocomplete(autocomplete_options_url);
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50b7ed666f4a3ad4">
     </script>
     <div style="visibility: hidden; height: 1px; width: 1px; position: absolute; top: -9999px; z-index: 100000;" id="_atssh">
-      <iframe id="_atssh430" title="AddThis utility frame" style="height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0; left: 0px;" src="https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.8556436194418233&amp;iit=1671288819417&amp;tmr=load%3D1671288788223%26core%3D1671288788335%26main%3D1671288819399%26ifr%3D1671288819428&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=&amp;ab=-&amp;dh=theskylive.com&amp;dr=&amp;du=https%3A%2F%2Ftheskylive.com%2Fsolar-eclipses-by-decade%3Fdecade%3D2030&amp;href=https%3A%2F%2Ftheskylive.com%2Fsolar-eclipses-by-decade&amp;dt=List%20of%20Solar%20Eclipses%20happening%20between%20the%20year%202030%20and%20the%20year%202039&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=1&amp;prod=undefined&amp;lng=en&amp;ogt=image%2Cdescription%2Ctitle&amp;pc=men&amp;pub=ra-50b7ed666f4a3ad4&amp;ssl=1&amp;sid=639dd7d4a0992395&amp;srf=0.01&amp;ver=300&amp;xck=0&amp;xtr=0&amp;og=title%3DList%2520of%2520Solar%2520Eclipses%2520happening%2520between%2520the%2520year%25202030%2520and%2520the%2520year%25202039%26description%3DList%2520of%2520the%2520total%252C%2520annular%2520and%2520partial%2520Solar%2520Eclipses%2520happening%2520between%2520the%2520year%25202030%2520and%2520the%2520year%25202039.%26image%3Dhttps%253A%252F%252Fstorage.googleapis.com%252Fthesylive-article-media%252Ftheskylive-solar-eclipses.jpg&amp;csi=undefined&amp;rev=v8.28.8-wp&amp;ct=1&amp;xld=1&amp;xd=1">
+      <iframe id="_atssh454" title="AddThis utility frame" style="height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0; left: 0px;" src="https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.7509623041118881&amp;iit=1671297154162&amp;tmr=load%3D1671297153903%26core%3D1671297153989%26main%3D1671297154153%26ifr%3D1671297154170&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=&amp;ab=-&amp;dh=theskylive.com&amp;dr=&amp;du=https%3A%2F%2Ftheskylive.com%2Fsolar-eclipses-by-decade%3Fdecade%3D2020&amp;href=https%3A%2F%2Ftheskylive.com%2Fsolar-eclipses-by-decade&amp;dt=List%20of%20Solar%20Eclipses%20happening%20between%20the%20year%202020%20and%20the%20year%202029&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=1&amp;prod=undefined&amp;lng=en&amp;ogt=image%2Cdescription%2Ctitle&amp;pc=men&amp;pub=ra-50b7ed666f4a3ad4&amp;ssl=1&amp;sid=639df881f64ec92d&amp;srf=0.01&amp;ver=300&amp;xck=0&amp;xtr=0&amp;og=title%3DList%2520of%2520Solar%2520Eclipses%2520happening%2520between%2520the%2520year%25202020%2520and%2520the%2520year%25202029%26description%3DList%2520of%2520the%2520total%252C%2520annular%2520and%2520partial%2520Solar%2520Eclipses%2520happening%2520between%2520the%2520year%25202020%2520and%2520the%2520year%25202029.%26image%3Dhttps%253A%252F%252Fstorage.googleapis.com%252Fthesylive-article-media%252Ftheskylive-solar-eclipses.jpg&amp;csi=undefined&amp;rev=v8.28.8-wp&amp;ct=1&amp;xld=1&amp;xd=1">
       </iframe>
     </div>
     <style id="service-icons-0">

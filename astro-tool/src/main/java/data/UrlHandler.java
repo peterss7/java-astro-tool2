@@ -1,6 +1,7 @@
 package data;
 
 import java.io.BufferedWriter;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -55,7 +56,6 @@ public class UrlHandler {
 		writer.write(eclipseHtml);				    
 		writer.close();		
 	}
-	
 	public static String renderedJsHtmlString(String url) {
 		
 		// this code takes the code of a url and renders it so text produced by JS can be scraped.
