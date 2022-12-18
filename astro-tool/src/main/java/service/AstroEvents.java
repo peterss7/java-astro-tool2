@@ -1,6 +1,8 @@
 package service;
 
 import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.Month;
@@ -41,6 +43,8 @@ public class AstroEvents {
 	public static final String ANSI_WHITE_BACKGROUND = "\u001B[47m";
 	
 	private static final String ECLIPSE_FILEPATH_1 = "C:\\Users\\peter\\eclipse-workspace\\astro-tool\\src\\main\\res\\eclipseTemp01.txt";
+	//private static final String COUNTRIES_LIST_FILEPATH = "C:\\Users\\peter\\eclipse-workspace\\astro-tool\\src\\main\\res\\countries.csv";
+	//private static final String GOOGLE_TEMP_HTML_FILE = "C:\\Users\\peter\\eclipse-workspace\\astro-tool\\src\\main\\res\\googleSearch.html";
 	private static final String BASE_DECADE_ECLIPSE_URL = "https://theskylive.com/solar-eclipses-by-decade?decade=";
 	
 	
@@ -200,6 +204,47 @@ public class AstroEvents {
 		
 	}
 	
+	/*
+	public ArrayList<String> findLocation(String eclipseString) throws FileNotFoundException {
+		
+		
+		Scanner csvReader = new Scanner(new File(COUNTRIES_LIST_FILEPATH));
+		
+		System.out.println(eclipseString + " this is the eclipse string.");
+		
+		String searchDate = parseDate(eclipseString);
+		ArrayList<String> foundLocations = new ArrayList<String>();
+		
+		String googleSearch = null;
+		
+		try {
+			googleSearch = UrlHandler.performGoogleSearch(searchDate, GOOGLE_TEMP_HTML_FILE);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		while(csvReader.hasNext()) {
+			
+			String csvCurrentLine = csvReader.nextLine();
+			
+			try {			
+				if (googleSearch.contains(csvCurrentLine)){
+					foundLocations.add(csvCurrentLine);
+				}
+			} catch (Exception e) {
+				System.out.println("This csv file has no line to find even though hasNext was true");
+			}			
+		}
+		
+		for (int i = 0; i < foundLocations.size(); i++) {
+			System.out.println(foundLocations.get(i) + " ...found locations");
+		}
+		
+		return foundLocations;
+		
+	}
+	*/
+	
 	public ArrayList<String> searchForEclipses() throws IOException {
 		
 		String eclipseUrl = BASE_DECADE_ECLIPSE_URL + targetDecade;
@@ -325,7 +370,7 @@ public class AstroEvents {
 			String [] approaches = result.split("Close approach");
 			result = approaches[0] + "\n" + "Close approach " + approaches[1];
 			
-			//System.out.println("Hello bitch is close aopproach: " );
+		
 		}
 		
 		/*
@@ -390,7 +435,7 @@ public class AstroEvents {
 				year = date.substring(6, 10);
 				characters = date.substring(2, 3) + date.substring(5, 6);
 			} catch (Exception e) {
-				System.out.println("You probably didn't enter a valid string. Do you know how to write the date?");
+				System.out.println("You probably didn't enter a valid string. ");
 				return false;
 			}
 			boolean validChars = false;			

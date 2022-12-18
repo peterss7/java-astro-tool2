@@ -212,6 +212,7 @@ public class AstronomyToolApp {
 		
 		
 		ArrayList<String> eclipseStrings = new ArrayList<>();
+		//ArrayList<String> locations = new ArrayList<>();
 		
 		System.out.print("Enter a decade to see eclipses in that decade (i.e. enter 30 to see eclipses from the 2030s).\n"
 				+ "This program only has information on eclipses between 2000 and 2099, so please enter a number between 0 and 99: ");
@@ -219,10 +220,14 @@ public class AstronomyToolApp {
 		try {
 			eclipseStrings = astroEvents.searchForEclipses();
 			astroEvents.printFormattedEclipseData(eclipseStrings); 
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		//	System.out.println("Test... attempting to find a location of last element of elipseStrings...");
+		//	locations = astroEvents.findLocation(eclipseStrings.get(eclipseStrings.size() - 1));
+		} catch (IOException e) {			
 			e.printStackTrace();
 		}
+		
+		// System.out.println("Locations found length is: " + locations.size());
+		
 	}
 	
 	public static void initAstroEvents() throws IOException {

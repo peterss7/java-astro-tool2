@@ -21,6 +21,46 @@ import com.gargoylesoftware.htmlunit.html.HtmlPage;
 
 public class UrlHandler {
 	
+	/*
+	public static final String GOOGLE_SEARCH_URL = "https://www.google.com/search";
+	
+	public static String performGoogleSearch(String date, String filepath) throws IOException {
+		
+		String searchTerm = date + " eclipse country";
+		int num = 10;
+		
+		
+		String searchUrl = GOOGLE_SEARCH_URL + "?q="+searchTerm+"&num="+num;
+		
+		System.out.println(searchUrl + " is url");
+		
+		try (final WebClient webClient = new WebClient(BrowserVersion.BEST_SUPPORTED)) {
+		    WebClientOptions options = webClient.getOptions();
+		    options.setCssEnabled(true);
+		    webClient.setAjaxController(new NicelyResynchronizingAjaxController());
+		    options.setTimeout(30000);
+		    webClient.addRequestHeader("Access-Control-Allow-Origin", "*");
+
+		    HtmlPage page = null;
+		    
+			try {
+				page = webClient.getPage(searchUrl);
+			} catch (FailingHttpStatusCodeException | IOException e) {				
+				System.out.println("Loading.... ");
+			}
+			
+			String googleSearchHtmlResult = page.asXml();		
+				
+			//System.out.println(googleSearchHtmlResult);	
+			
+			return googleSearchHtmlResult;
+			
+			
+		}
+		
+	}
+	*/
+	
 	public static Document getDocument(String url) {
 		
 		Connection conn = Jsoup.connect(url);
